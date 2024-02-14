@@ -5,8 +5,7 @@
 
 ## Overview
 
-This project aims to predict instances of c![Uploading 8-2RwSsEMyyzLZUzi.png…]()
-ustomers defaulting on their credit card payments. With a risk management perspective in mind, accurately predicting whether a customer is likely to default on their bills in future terms holds significant importance for financial institutions.
+This project aims to predict instances of customers defaulting on their credit card payments. With a risk management perspective in mind, accurately predicting whether a customer is likely to default on their bills in future terms holds significant importance for financial institutions.
 
 The predictive model developed in this project can assist in identifying customers who are at a higher risk of defaulting on their credit card payments. This information can be crucial for financial institutions to proactively manage and mitigate potential financial risks.
 
