@@ -30,8 +30,7 @@ The predictive model developed in this project can assist in identifying custome
 ## How to Run
 
 1. Clone this repository to your local machine.
-2. Install the required packages using `pip install -r requirements.txt`.
-3. Open and run the Jupyter Notebook or Python script containing the project code.
+2. Open and run the Jupyter Notebook or Python script containing the project code.
 
 ## License
 
