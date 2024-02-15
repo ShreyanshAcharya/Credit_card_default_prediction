@@ -37,8 +37,9 @@ The predictive model developed in this project can assist in identifying custome
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
+## Team Members:
+Abhishek S Mayya(142302014)
+Shreyansh Acharya(142302013)
+Saikat samui(142302015)
 
-- Mention any external libraries, datasets, or resources used in the project.
-- Give credit to contributors or sources of inspiration.
 
-Feel free to customize this readme file based on the specific details of your project.
